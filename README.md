@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Data Analysis & Visualization Projects
 Data files for tableau/research projects
 
 This Repository contains all the data and research completed to answer answer a real world question of where should businesses focus their advertising efforts, 
